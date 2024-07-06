@@ -1,0 +1,26 @@
+MySQL:
+   url: localhost
+   port: 3306
+   database: Rush
+   username: root
+   password: '123456'
+BungeeMode: true
+GameMode: false
+Lobbys:
+- Rush´óÌü1
+- Rush´óÌü2
+StartSeconds: 5
+TeamPlayers: 1
+MaxPlayers: 2
+WinScores: 10
+MOTD:
+   Waiting: ok
+   Gaming: gaming
+   Full: full
+   Stopping: stopping
+   Ending: ending
+Scoreboard:
+   Title: '&bMchaptim &3Rush'
+   Mode: '&7²ð´²'
+   Version: '&71.0-BETA'
+   LastLine: '&bMchaptim.cn'
